@@ -39,6 +39,7 @@ body {
     border-radius: 5px;
     background-color: black;
     border: none;
+    color: white;
 }
 
 ::placeholder {
